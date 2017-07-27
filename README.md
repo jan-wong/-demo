@@ -1,2 +1,2 @@
-# algorithm-demo
-算法 with JavaScript or C
+# algorithm-sets
+用JavaScript实现了《算法导论》中的算法
